@@ -1,9 +1,9 @@
 	db AIPOM ; 190
 
-	db  55,  70,  55,  85,  40,  55
+	db  50,  95,  45, 110,  75,  45
 	;   hp  atk  def  spd  sat  sdf
 
-	db NORMAL, NORMAL ; type
+	db NORMAL, FIGHTING ; type
 	db 45 ; catch rate
 	db 94 ; base exp
 	db NO_ITEM, NO_ITEM ; items
