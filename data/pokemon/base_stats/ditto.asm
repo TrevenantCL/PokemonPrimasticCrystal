@@ -1,9 +1,9 @@
 	db DITTO ; 132
 
-	db  48,  48,  48,  48,  48,  48
+	db  98,  48,  48, 148,  48,  48
 	;   hp  atk  def  spd  sat  sdf
 
-	db NORMAL, NORMAL ; type
+	db NORMAL, GHOST ; type
 	db 35 ; catch rate
 	db 61 ; base exp
 	db NO_ITEM, NO_ITEM ; items
