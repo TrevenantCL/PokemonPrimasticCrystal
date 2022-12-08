@@ -1,6 +1,6 @@
 	db KAKUNA ; 014
 
-	db  45,  25,  50,  35,  25,  25
+	db  45,  25, 100,  15,  20,  60
 	;   hp  atk  def  spd  sat  sdf
 
 	db BUG, POISON ; type
