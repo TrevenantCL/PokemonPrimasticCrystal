@@ -1,9 +1,9 @@
 	db STEELIX ; 208
 
-	db  75,  85, 200,  30,  55,  65
+	db  75,  95, 175,  30,  75,  75
 	;   hp  atk  def  spd  sat  sdf
 
-	db STEEL, GROUND ; type
+	db STEEL, DRAGON ; type
 	db 25 ; catch rate
 	db 196 ; base exp
 	db NO_ITEM, METAL_COAT ; items
