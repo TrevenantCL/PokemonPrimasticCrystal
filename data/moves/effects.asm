@@ -1944,17 +1944,18 @@ FutureSight:
 	buildopponentrage
 	endmove
 
-Gust:
+Hurricane:
 	checkobedience
 	usedmovetext
 	doturn
 	critical
 	damagestats
 	damagecalc
+	thunderaccuracy
+	checkhit
+	effectchance
 	stab
 	damagevariation
-	doubleflyingdamage
-	checkhit
 	moveanim
 	failuretext
 	applydamage
@@ -1962,6 +1963,7 @@ Gust:
 	supereffectivetext
 	checkfaint
 	buildopponentrage
+	confusetarget
 	endmove
 
 Stomp:
